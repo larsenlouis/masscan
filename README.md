@@ -1,4 +1,4 @@
-# MASSCAN: Mass IP port scanner
+# MASSCAN MOD: Mass IP port scanner MOD
 
 This is the fastest Internet port scanner. It can scan the entire Internet
 in under 6 minutes, transmitting 10 million packets per second.
